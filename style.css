@@ -146,3 +146,24 @@ footer a{
     color: #ccd595;
     
 }
+
+
+    
+   
+
+
+.link{
+    position: relative;
+    width: 20px;
+    height: 20px;
+    top: -100px;
+    left: 350px;
+}
+    
+
+
+.escrita{
+    position: relative;
+    top: -80px;
+    left: 500px;
+}
