@@ -6,15 +6,17 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #f4f0ea;
-    color: #798252;
+    background-color: #caf2b5;
+    color: #111111;
     font-family: "Cabin", sans-serif;
     font-weight: 400;
 
 }
 header{
     padding: 2rem;
-    background-color: #331f19;
+    background-color: #070bf6;
+    border-radius: 50%;
+    border-left: #111111;
     text-align: center;
 }
 main{
@@ -146,19 +148,18 @@ footer a{
     color: #ccd595;
     
 } 
-
 .link{
     position: relative;
     width: 20px;
     height: 20px;
-    top: -100px;
-    left: 350px;
+    top: -35px;
+    left: -150px;
 }
     
 
 
 .escrita{
     position: relative;
-    top: -60px;
-    left: 500px;
-}
+    top: -15px;
+}    
+    
