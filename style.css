@@ -6,7 +6,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color:rgb(138, 245, 232);
+    background: linear-gradient(to right, #65e6f7, #4bc3f6, #1b9ff7);
     color: #03073f;
     font-family: "Cabin", sans-serif;
     font-weight: 400;
@@ -14,7 +14,7 @@ body{
 }
 header{
     padding: 2rem;
-    background-color: #2af207;
+    background-color: #2607f2;
     border-radius: 50%;
     border-left: #111111;
     text-align: center;
@@ -49,11 +49,11 @@ input[type="text"], input[type="password"], input[type="date"], input[type="emai
 } 
 
 input::placeholder{
-    color: #383be2;
+    color: #2b15bd;
 }
 select{
     cursor: pointer;
-    background-color: #3e38e2;
+    background-color: #155ebd;
     color: #331f19;
     border-radius: 5px;
     border: none;
@@ -68,7 +68,7 @@ table{
     border-collapse: collapse;
 }
 th{
-    background-color: #6038e2;
+    background-color: #2b15bd;
     color: #331f19;
     padding: 1rem;
 }
@@ -79,7 +79,7 @@ td{
 
 }
 tfoot td {
-    background-color: #331f19;
+    background-color: #2b15bd;
     color: #f4f0ea;
 }
 details{
@@ -109,7 +109,7 @@ fieldset{
 }
 
 legend{
-    color: #331f19;
+    color: #2b15bd;
     padding: 0 0.5rem;
 
 }
@@ -122,7 +122,7 @@ textarea{
 }
 
 button{
-    background-color: #10089d;
+    background-color: #2b15bd;
     border: none;
     padding: 0.8rem;
     color: #fbf8f7;
@@ -131,7 +131,7 @@ button{
 
 }
 footer{
-    background-color: #331f19;
+    background-color: #2b15bd;
     padding: 2rem;
     text-align: center;
 
@@ -145,7 +145,7 @@ footer{
 
 footer a{
     text-decoration: none;
-    color: #2b15bd;
+    color: #bd3115;
     
 } 
 .link{
